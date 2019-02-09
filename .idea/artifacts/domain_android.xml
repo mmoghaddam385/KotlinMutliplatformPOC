@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="domain-android">
+    <output-path>C:\Users\mmogh\code\KtMultiPlatformPoC\domain\build\libs</output-path>
+    <root id="archive" name="domain-android.jar">
+      <element id="module-output" name="domain_androidMain" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KtMultiPlatformPoC.iml" filepath="$PROJECT_DIR$/KtMultiPlatformPoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain_androidMain.iml" filepath="$PROJECT_DIR$/domain/domain_androidMain.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain_androidTest.iml" filepath="$PROJECT_DIR$/domain/domain_androidTest.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain_commonMain.iml" filepath="$PROJECT_DIR$/domain/domain_commonMain.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain_commonTest.iml" filepath="$PROJECT_DIR$/domain/domain_commonTest.iml" group="domain" />
+    </modules>
+  </component>
+</project>
