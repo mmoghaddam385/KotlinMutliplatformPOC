@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/domain/domain_androidTest.iml" filepath="$PROJECT_DIR$/domain/domain_androidTest.iml" group="domain" />
       <module fileurl="file://$PROJECT_DIR$/domain/domain_commonMain.iml" filepath="$PROJECT_DIR$/domain/domain_commonMain.iml" group="domain" />
       <module fileurl="file://$PROJECT_DIR$/domain/domain_commonTest.iml" filepath="$PROJECT_DIR$/domain/domain_commonTest.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain_iOSMain.iml" filepath="$PROJECT_DIR$/domain/domain_iOSMain.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain_iOSTest.iml" filepath="$PROJECT_DIR$/domain/domain_iOSTest.iml" group="domain" />
     </modules>
   </component>
 </project>
